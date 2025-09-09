@@ -28,7 +28,7 @@
   <url>
     <loc>http://localhost:1313/hugo-brewm/it/stage/</loc>
     
-    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/hugo-brewm/en/stage/" /><xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/hugo-brewm/id/stage/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/hugo-brewm/id/stage/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/hugo-brewm/en/stage/" />
     <xhtml:link rel="alternate" hreflang="it-IT" href="http://localhost:1313/hugo-brewm/it/stage/" />
   </url>
   <url>

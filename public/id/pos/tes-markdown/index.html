@@ -60,11 +60,6 @@
         </a>
     </nav>
     
-        <a id="logo" href="http://localhost:1313/hugo-brewm/id/" aria-label="Contoh" aria-description="Beranda">
-                <!-- logotype.html --><svg id="logotype" xmlns="http://www.w3.org/2000/svg" version="1.1" width="168pt" aria-label="Contoh">
-            <text id="logotype__text" y="19.5pt" x="0">Contoh</text>
-        </svg>
-        </a>
     
     <details class="presentation" id="top-nav">
         <summary class="on-deck">
@@ -280,8 +275,8 @@
             <div id="doc-author" class="textsw author"><span>Author Name</span>
             </div>
             <!-- timestamp.html-->
-    <div >
-        <time class="doc-publish-date" datetime="2025-01-26T00:00:00&#43;00:00" data-time-label="Diterbitkan pada">26 Januari 2025</time>
+    <div class="date-has-label">
+        <time class="doc-publish-date" datetime="2025-01-26T00:00:00&#43;00:00" data-time-label="Diterbitkan pada">26 Januari 2025</time><time class="doc-lastmod-date" datetime="2025-09-09T23:21:09&#43;02:00" data-time-label="Diubah pada">9 September 2025</time>
     </div>
         </header>
         <!-- audio.html -->
@@ -383,12 +378,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
             <div id="qr" role="img" aria-label="QR code"></div>
             <div class="verbose">
                 <div class="has-aria-label-top" aria-label="Tes Markdown"><span>http://localhost:1313/hugo-brewm/id/pos/tes-markdown/</span></div>
-                <div><span>Halaman ini dibuat pada: </span><time datetime="2025-09-09T23:20:32&#43;02:00">2025-09-09 23:20</time></div>
+                <div><span>Halaman ini dibuat pada: </span><time datetime="2025-09-09T23:36:43&#43;02:00">2025-09-09 23:36</time></div>
                 <div><span>Halaman ini diakses pada: </span><time id="time-stamp"></time></div><div><span>Didukung oleh </span><a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <a href="https://github.com/gohugoio/hugo/releases/tag/v0.150.0" aria-label="Hugo 0.150.0" target="_blank" rel="noopener">v0.150.0</a> & <a href="https://github.com/foxihd/hugo-brewm" target="_blank" rel="noopener">hugo-brewm</a>.</div>
             </div>
         </div>
     </div>
                 <!-- history.html -->
+        <div id="has-timeline" >
+            <strong class="section-title">Riwayat Redaksi</strong>
+            <ol aria-label="Riwayat Redaksi">
+                <li>
+                    <time datetime="2025-01-26T00:00:00&#43;00:00">26 Januari 2025</time>
+                    <span>(Diterbitkan)</span>
+                </li>
+                <li>
+                    <time datetime="2025-09-09T23:21:09&#43;02:00">9 September 2025</time>
+                    <span>(Diubah)</span>
+                </li>
+            </ol>
+            <p>Beberapa informasi mungkin berubah, kami menjaga redaksi tetap sejalan dengan perkembangan.</p>
+        </div>
             
             <!-- nav.html -->
 <details class="presentation" aria-expanded="true" id="has-share" open>

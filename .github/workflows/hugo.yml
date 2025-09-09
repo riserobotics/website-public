@@ -94,6 +94,8 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+      - name: Index pagefind
+        run: npx pagefind --source "public"
   deploy:
     environment:
       name: github-pages

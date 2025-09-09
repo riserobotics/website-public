@@ -1,7 +1,7 @@
 ## Base URL for the site
 baseURL = 'https://riserobotics.github.io/hugo-brewm/'
 ## Site title
-title = 'RISE Exoskeletons'
+title = 'RISE'
 ## Use hugo-brewm theme
 theme = 'hugo-brewm'
 ## Enable Git information for pages, (e.g. lastMod date information)
@@ -156,12 +156,8 @@ enableRobotsTXT = true
 
     ## Logo configuration
     [params.logo]
-        ## Light mode logo mark
-        # logoMark = 'https://example.com/logoMark.svg'
-        ## Dark mode logo mark
-        # logoMarkDark = 'https://example.com/logoMarkDark.svg'
         ## Enable logo type
-        logoType = true
+        logoType = false
 
     ## Feed display settings
     [params.feed]
