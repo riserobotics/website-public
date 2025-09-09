@@ -3,12 +3,12 @@ cover: 'https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/fl
 keepAspectRatio: true
 ---
 
-## Hero Section / Greeter
+## We're creating exoskeletons for paraplegics!
 
-**This exampleSite is deployed on Github Pages within it's theme repository.**
+In collaboration with the student initiative *Socially Engaged Engineers* (SEI), the Department of Medical Engineering at TU Berlin has launched RISE, an innovative and practice-oriented teaching module. The project’s mission is to enable people with spinal cord injuries to literally “rise up” and regain the ability to walk with the help of cutting-edge technology.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+At the heart of RISE is the development of a **robotic exoskeleton** – a state-of-the-art assistive device that combines engineering excellence with profound social impact. Working hand in hand with pilot participants, transdisciplinary teams of 25 to 50 students per semester design, build, and continuously refine the exoskeleton from the ground up.  
 
-Integer nec posuere quam. Mauris et rhoncus lacus. Pellentesque non sem cursus, interdum nunc ut, efficitur magna. Maecenas consectetur ornare enim, nec tempus tellus vestibulum in. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum venenatis ex non auctor malesuada. Curabitur semper elit sit amet orci facilisis fermentum. Nullam consectetur risus eget leo rhoncus egestas. Suspendisse at diam congue, venenatis augue et, ornare lectus. Curabitur ac lorem ullamcorper, consequat justo at, scelerisque lacus. Vivamus ac erat mauris. Nullam ut nibh tincidunt, placerat magna nec, fermentum tortor. Fusce ut orci sed neque sagittis rhoncus. Morbi eleifend, mauris sit amet dignissim dignissim, mauris nisi tempus orci, a congue elit ex quis ex.
+Through this initiative, students not only gain **hands-on experience** in research and development but also contribute directly to improving quality of life and independence for individuals affected by paralysis.  
 
---- Lorem Ipsum
+RISE thus represents both a **technological challenge** and a **socially meaningful endeavor**, bringing together innovation, collaboration, and compassion in one forward-looking project.
